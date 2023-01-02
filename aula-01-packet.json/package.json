@@ -1,0 +1,18 @@
+{
+  "name": "aula-01-packet.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "pratica1": "clear && node pratica1.js Brazil",
+    "pratica2": "clear && node pratica2.js b",
+    "pratica3": "clear && node pratica3.js",
+    "pratica4": "clear && node pratica4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
